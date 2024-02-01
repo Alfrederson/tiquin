@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import { useSqueak } from './hooks/use-squeak'
 import React from 'react'
